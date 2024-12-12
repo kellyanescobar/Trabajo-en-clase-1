@@ -14,7 +14,7 @@ public class Partidos {
         int PuntajeTotal=(Ganados*3)+(Empatados*1)+(Perdidos*0);
 
         System.out.println("El puntaje total del equipo es: "+PuntajeTotal);
-
+ 
         
     }
     
